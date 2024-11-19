@@ -1,1 +1,1 @@
-/home/antam/Downloads/rust/projects/calculator/target/debug/calculator: /home/antam/Downloads/rust/projects/calculator/src/main.rs
+/home/antam/rust/projects/calculator/target/debug/calculator: /home/antam/rust/projects/calculator/src/main.rs
